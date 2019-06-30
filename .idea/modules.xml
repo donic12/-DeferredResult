@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/asynchronoustask.iml" filepath="$PROJECT_DIR$/asynchronoustask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/base.iml" filepath="$PROJECT_DIR$/base/base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blockingtype/blockingtype.iml" filepath="$PROJECT_DIR$/blockingtype/blockingtype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/callabledemo/callabledemo.iml" filepath="$PROJECT_DIR$/callabledemo/callabledemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deferredresultdemo/deferredresultdemo.iml" filepath="$PROJECT_DIR$/deferredresultdemo/deferredresultdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deferredresultdemo2/deferredresultdemo2.iml" filepath="$PROJECT_DIR$/deferredresultdemo2/deferredresultdemo2.iml" />
+    </modules>
+  </component>
+</project>

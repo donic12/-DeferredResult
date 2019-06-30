@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="base" />
+        <module name="blockingtype" />
+        <module name="callabledemo" />
+        <module name="deferredresultdemo" />
+        <module name="deferredresultdemo2" />
+        <module name="defferedresultdemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="asynchronoustask" target="1.8" />
+      <module name="base" target="1.8" />
+      <module name="blocking" target="1.6" />
+      <module name="blockingdemo" target="1.8" />
+      <module name="blockingtype" target="1.8" />
+      <module name="callabledemo" target="1.8" />
+      <module name="deferredresultdemo" target="1.8" />
+      <module name="deferredresultdemo2" target="1.8" />
+      <module name="defferedresultdemo" target="1.8" />
+      <module name="test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
